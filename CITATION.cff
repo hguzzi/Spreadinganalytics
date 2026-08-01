@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite both the repository and the companion paper."
+title: "Spreadinganalytics: XAI-Guided GNN Framework for Ebola Epidemic Intervention Design"
+type: software
+authors:
+  - given-names: PietroHiram
+    family-names: Guzzi
+    affiliation: "Department of Surgical and Medical Sciences, Magna Graecia University, Catanzaro, Italy"
+    orcid: "https://orcid.org/"
+repository-code: "https://github.com/hguzzi/Spreadinganalytics"
+date-released: "2026-08-01"
+license: MIT
+keywords:
+  - Ebola virus disease
+  - explainable artificial intelligence
+  - graph neural networks
+  - Integrated Gradients
+  - epidemic modeling
+  - SEIHRD model
+  - network simulation
+  - intervention design
+  - sensitivity analysis
+  - public health
+preferred-citation:
+  type: article
+  title: "Feasibility of explainable AI-guided intervention design for Ebola virus disease outbreaks: a graph neural network framework with sensitivity and adaptive analysis"
+  authors:
+    - given-names: PietroHiram
+      family-names: Guzzi
+      affiliation: "Department of Surgical and Medical Sciences, Magna Graecia University, Catanzaro, Italy"
+  year: 2026
+  journal: "To be added"
+  doi: "10.0000/placeholder"
